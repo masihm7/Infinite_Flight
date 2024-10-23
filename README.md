@@ -1,15 +1,72 @@
 # Infinite_fights
 
 ## Overview
-The Flight Tracking Application is a web-based platform built with React and Redux, designed to provide users with real-time flight status information. It allows users to search for flights, view flight details, and navigate through different sections of the application seamlessly.
+The Infinite Flights is a web-application designed to provide users with real-time flight status information. It allows users to search for flights, view flight details.
 
-## Video Presentation
+## 📽️ Video Presentation
+
 Watch the presentation
 
-## Installation and Usage
+## 🛠️ Installation and Usage
+
 To run the Flight Tracking Application locally, follow these steps:
 
-### Clone the repository:
+### 1. Clone the repository:
 ```bash
-git clone https://github.com/vikram0104irctc/Travelopia_Assignment.git
-cd flight_status_board
+git clone https://github.com/masihm7/Infinite_fights.git
+cd flight-traker
+```
+### 2. Install the required packages
+```bash
+npm install
+```
+### 3. Run the application:s
+```bash
+npm run build
+```
+## 📂 Project Structure
+
+```bash
+flight_status_board/
+├── public/                
+├── src/
+│   ├── components/        
+│   │   ├── navbar.tsx     
+│   │   ├── flightTable.tsx
+│   │   ├── flightDetails.tsx
+│   │   ├── footer.tsx 
+│   ├── styles/            
+│   │   ├── flightTable.module.css 
+│   │   ├── flightDetails.module.css
+│   │   ├── foote.module.css
+│   │   ├── rnavbar.module.css 
+│   ├── App.tsx            
+│   ├── main.tsx
+│   ├── index.css          
+├── package.json          
+├── tsconfig.json         
+└── README.md        
+```
+## ✨ Features
+
+- View detailed flight information, including flight number, airline, origin, destination, departure time, and status.
+- Get details for specific flights by clicking on the flight number.
+- Responsive design that works well on mobile, tablet, and desktop devices.
+
+
+## 📁 Pages and Components
+
+- **Navbar**: The navigation bar for the application.
+- **FlightsTable**: Displays the list of flights and their statuses.
+- **FlightDetails**: Shows detailed information for a selected flight.
+
+## 📦 Technologies Used
+
+* **React**: For building the user interface.
+* **Axios**: For making HTTP requests.
+* **TypeScript**: For type safety and enhanced developer experience.
+* **CSS Modules**: For styling the components.
+
+## 🎉 Conclusion
+
+The Flight Tracking Application is a powerful tool for users to stay informed about real-time flight statuses.  It offers an intuitive interface and responsive design, ensuring accessibility on various devices. With features like detailed flight information and a seamless navigation experience, this application aims to enhance user engagement and satisfaction in tracking flights effectively.
