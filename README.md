@@ -24,6 +24,10 @@ npm install
 ```bash
 npm run build
 ```
+### 4. Build the application:
+```bash
+npm run build
+```
 ## 📂 Project Structure
 
 ```bash
