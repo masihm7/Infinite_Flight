@@ -1,4 +1,4 @@
-# Infinite_fights
+# Infinite_flights
 
 ## Overview
 The Infinite Flights is a web-application designed to provide users with real-time flight status information. It allows users to search for flights, view flight details.
