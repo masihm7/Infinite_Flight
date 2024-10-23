@@ -1,0 +1,16 @@
+.container{
+    max-width: 1400px;
+    margin: auto;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.foot{
+    background-color: #1b1c1e;
+    border-bottom: 15px solid #104a8d;
+    color: #f0f0f0;
+}
+.foot>p{
+    text-align: center;
+}

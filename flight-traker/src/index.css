@@ -1,0 +1,33 @@
+* {
+ margin: 0px;
+ padding: 0px;
+ box-sizing: border-box; 
+}
+
+
+body {
+  font-family: sans-serif;
+  margin: 0;
+  padding: 0;
+  background-image: url('./assets/vecteezy_airplane-taking-off-from-the-airport-generative-ai_28823012.jpg'); 
+  background-size: cover; 
+  background-position: center; 
+  background-attachment: fixed;
+  width: 100%;
+  color: #ffcc00;
+}
+
+button{
+  color: #f0f0f0;
+  background-color: #104a8d;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+
+button:hover {
+  background-color: #1e70cd;
+}
+

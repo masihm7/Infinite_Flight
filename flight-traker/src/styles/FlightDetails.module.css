@@ -1,0 +1,57 @@
+.container {
+    padding: 20px;
+    margin-top: 20px;
+    color: #f0f0f0;
+    max-width: 1400px;
+    margin: auto;
+    height: 85vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  #detconte{
+    background-color: #7c7c7cce;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+  }
+
+  #okok{
+    background-color: #104a8dd6;
+    padding: 20px;
+    position: relative;
+    max-width: 600px;
+    margin: auto;
+    border-radius: 10px;
+  }
+
+  #okok>p {
+    text-align: center;
+    align-items: center;
+    padding: 10px;
+    font-size: 20px;
+  }
+
+  #okok button{
+    position: absolute;
+    right: 15px;
+    top: 15px;
+    padding: 5px 10px;
+    background-color: #b91414;
+  }
+
+
+  #detconte>p:nth-of-type(5){
+    align-items: center;
+  }
+  .Indicator {
+    display: inline-block;
+    align-items: center;
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    margin-right: 5px;
+    margin-bottom: 1px;
+  }

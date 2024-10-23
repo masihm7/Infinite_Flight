@@ -1,0 +1,30 @@
+#nav{
+    background-color: #1b1c1e;
+    border-bottom: 15px solid #104a8d;
+}
+
+
+
+#navcontain{
+    display: flex;
+    max-width: 1400px;
+    margin: auto;
+    justify-content: space-between;
+    align-content: center;   
+    padding: 10px 20px;
+}
+
+#nav img {
+    width: 80px;
+    filter: invert(1);
+}
+
+#nav>div>div{
+    align-content: center;
+}
+
+#nav button{
+    padding: 10px 30px;
+    margin-right: 10px;
+
+}
