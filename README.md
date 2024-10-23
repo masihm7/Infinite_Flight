@@ -1,7 +1,7 @@
-# Infinite_flights
+# Infinite_Flight
 
 ## Overview
-The Infinite Flights is a web-application designed to provide users with real-time flight status information. It allows users to search for flights, view flight details.
+The Infinite Flight is a web-application designed to provide users with real-time flight status information. It allows users to search for flights, view flight details.
 
 ## 📽️ Video Presentation
 
@@ -13,7 +13,7 @@ To run the Flight Tracking Application locally, follow these steps:
 
 ### 1. Clone the repository:
 ```bash
-git clone https://github.com/masihm7/Infinite_fights.git
+git clone https://github.com/masihm7/Infinite_Flight.git
 cd flight-traker
 ```
 ### 2. Install the required packages
@@ -31,7 +31,7 @@ npm run build
 ## 📂 Project Structure
 
 ```bash
-Infinite_fights/
+Infinite_Flight/
 ├── flight-traker/
 │   ├── public/                
 │   ├── src/
@@ -74,4 +74,4 @@ Infinite_fights/
 
 ## 🎉 Conclusion
 
-The Flight Tracking Application is a powerful tool for users to stay informed about real-time flight statuses.  It offers an intuitive interface and responsive design, ensuring accessibility on various devices. With features like detailed flight information and a seamless navigation experience, this application aims to enhance user engagement and satisfaction in tracking flights effectively.
+The Infinite Flight Application is a powerful tool for users to stay informed about real-time flight statuses.  It offers an intuitive interface and responsive design, ensuring accessibility on various devices. With features like detailed flight information and a seamless navigation experience, this application aims to enhance user engagement and satisfaction in tracking flights effectively.
