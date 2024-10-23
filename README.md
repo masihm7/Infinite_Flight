@@ -31,24 +31,25 @@ npm run build
 ## 📂 Project Structure
 
 ```bash
-flight_status_board/
-├── public/                
-├── src/
-│   ├── components/        
-│   │   ├── navbar.tsx     
-│   │   ├── flightTable.tsx
-│   │   ├── flightDetails.tsx
-│   │   ├── footer.tsx 
-│   ├── styles/            
-│   │   ├── flightTable.module.css 
-│   │   ├── flightDetails.module.css
-│   │   ├── foote.module.css
-│   │   ├── rnavbar.module.css 
-│   ├── App.tsx            
-│   ├── main.tsx
-│   ├── index.css          
-├── package.json          
-├── tsconfig.json         
+Infinite_fights/
+├── flight-traker/
+│   ├── public/                
+│   ├── src/
+│   │   ├── components/        
+│   │   │   ├── navbar.tsx     
+│   │   │   ├── flightTable.tsx
+│   │   │   ├── flightDetails.tsx
+│   │   │   ├── footer.tsx 
+│   │   ├── styles/            
+│   │   │   ├── flightTable.module.css 
+│   │   │   ├── flightDetails.module.css
+│   │   │   ├── foote.module.css
+│   │   │   ├── rnavbar.module.css 
+│   │   ├── App.tsx            
+│   │   ├── main.tsx
+│   │   ├── index.css          
+│   ├── package.json          
+│   ├── tsconfig.json         
 └── README.md        
 ```
 ## ✨ Features
