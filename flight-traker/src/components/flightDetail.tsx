@@ -15,7 +15,7 @@ interface details {
 
 export const FlightDetail: React.FC = () => {
   const { id } = useParams();
-  const [data, setData] = useState<details>(null);
+  const [data, setData] = useState<details | null>(null);
   const navigate = useNavigate();
 
   const gotoTable = () => {
