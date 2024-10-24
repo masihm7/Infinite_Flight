@@ -5,7 +5,7 @@ The Infinite Flight is a web-application designed to provide users with real-tim
 
 ## 📽️ Video Presentation
 
-Watch the presentation
+Watch the presentation: https://youtu.be/vOYPuXSZuQs
 
 ## 🛠️ Installation and Usage
 
